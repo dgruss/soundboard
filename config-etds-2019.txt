@@ -1,54 +1,54 @@
-3 1 32
+3 1 20
 Spooky Scary Skeletons-liedje
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Spooky Scary Skeletons (kort).mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Spooky Scary Skeletons (kort).mp3
 Applaus
-/home/anoko/Documents/ETDS/ETDS-geluidjes/applause.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/applause.mp3
 Buzzer
-/home/anoko/Documents/ETDS/ETDS-geluidjes/buzzer sound.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/buzzer sound.mp3
 Klein meisje 1
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Creepy Little Girl hide and seek.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Creepy Little Girl hide and seek.mp3
 Klein meisje 2
-/home/anoko/Documents/ETDS/ETDS-geluidjes/creepy mommy sound.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/creepy mommy sound.mp3
 Klein meisje 3
-/home/anoko/Documents/ETDS/ETDS-geluidjes/zingend meisje.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/zingend meisje.mp3
 FAIL! (1)
-/home/anoko/Documents/ETDS/ETDS-geluidjes/fail sound effect 1.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/fail sound effect 1.mp3
 FAIL! (2)
-/home/anoko/Documents/ETDS/ETDS-geluidjes/fail soundeffect 2.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/fail soundeffect 2.mp3
 FAIL! (3)
-/home/anoko/Documents/ETDS/ETDS-geluidjes/super mario fail.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/super mario fail.mp3
 STOP!
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Female Distress Screams STOP.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Female Distress Screams STOP.mp3
 Goats
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Goats Screaming.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Goats Screaming.mp3
 Horror
-/home/anoko/Documents/ETDS/ETDS-geluidjes/horror sound effect AETrim1568101679972.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/horror sound effect AETrim1568101679972.mp3
 Wolven
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Huilende wolven.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Huilende wolven.mp3
 Do you wanne play a game?
-/home/anoko/Documents/ETDS/ETDS-geluidjes/jigsaw Do you wanna play a game_.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/jigsaw Do you wanna play a game_.mp3
 I want to play a game
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Jigsaw I Want To Play A Game.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Jigsaw I Want To Play A Game.mp3
 Aha
-/home/anoko/Documents/ETDS/ETDS-geluidjes/John Wick - aha.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/John Wick - aha.mp3
 Krakende deur
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Krakende deur effect.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Krakende deur effect.mp3
 Gil 1
-/home/anoko/Documents/ETDS/ETDS-geluidjes/mannen gil 1.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/mannen gil 1.mp3
 Gil 2
-/home/anoko/Documents/ETDS/ETDS-geluidjes/vrouw gil 1.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/vrouw gil 1.mp3
 Monstergil
-/home/anoko/Documents/ETDS/ETDS-geluidjes/monster gil.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/monster gil.mp3
 Monsterlach
-/home/anoko/Documents/ETDS/ETDS-geluidjes/monster lach.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/monster lach.mp3
 Gelach
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Sitcom Laughter.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Sitcom Laughter.mp3
 6,5 uur later...
-/home/anoko/Documents/ETDS/ETDS-geluidjes/spongebob 6,5 hours later.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/spongebob 6,5 hours later.mp3
 Opnieuw!
-/home/anoko/Documents/ETDS/ETDS-geluidjes/Spongebob new.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/Spongebob new.mp3
 Wilhelm scream
-/home/anoko/Documents/ETDS/ETDS-geluidjes/_the Wilhelm Scream_.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/_the Wilhelm Scream_.mp3
 WOW!
-/home/anoko/Documents/ETDS/ETDS-geluidjes/WOW eddie wally.mp3
+/home/anoko/Bluetoes/ETDS-2019/ETDS-geluidjes/WOW eddie wally.mp3
 

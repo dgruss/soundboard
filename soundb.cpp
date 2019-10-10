@@ -39,7 +39,8 @@ void onButton(const std::string& filename, Data* data)
 	std::vector<char> filenameStr(filename.begin(), filename.end());
 	filenameStr.push_back(0);
 	char command[] = "mplayer";
-	char* const params[3] = { command, filenameStr.data(), nullptr };
+	char quiet[] = "-quiet";
+	char* const params[4] = { command, quiet, filenameStr.data(), nullptr };
   pid_t child_pid = fork();
   if(child_pid == 0) {
 		execvp(command, params);
