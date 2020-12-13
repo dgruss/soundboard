@@ -1,0 +1,211 @@
+3 1 20
+Akte X
+/d/arbeit/2020_soundboard/files/aktex.mp3
+Applause
+/d/arbeit/2020_soundboard/files/Applause 01.mp3
+/d/arbeit/2020_soundboard/files/Applause 02.mp3
+/d/arbeit/2020_soundboard/files/Applause 03.mp3
+/d/arbeit/2020_soundboard/files/Applause 04.mp3
+/d/arbeit/2020_soundboard/files/Applause 05.mp3
+/d/arbeit/2020_soundboard/files/Applause 06.mp3
+/d/arbeit/2020_soundboard/files/Applause 07.mp3
+/d/arbeit/2020_soundboard/files/Applause 08.mp3
+/d/arbeit/2020_soundboard/files/Applause 09.mp3
+/d/arbeit/2020_soundboard/files/Applause 10.mp3
+/d/arbeit/2020_soundboard/files/Applause 11.mp3
+/d/arbeit/2020_soundboard/files/Applause 12.mp3
+/d/arbeit/2020_soundboard/files/Applause 13.mp3
+/d/arbeit/2020_soundboard/files/Applause 14.mp3
+/d/arbeit/2020_soundboard/files/Applause 15.mp3
+/d/arbeit/2020_soundboard/files/Applause 16.mp3
+/d/arbeit/2020_soundboard/files/Applause 17.mp3
+/d/arbeit/2020_soundboard/files/Applause 18.mp3
+/d/arbeit/2020_soundboard/files/Applause 19.mp3
+/d/arbeit/2020_soundboard/files/Applause 20.mp3
+/d/arbeit/2020_soundboard/files/applause1.mp3
+/d/arbeit/2020_soundboard/files/applause2.mp3
+/d/arbeit/2020_soundboard/files/applause3.mp3
+/d/arbeit/2020_soundboard/files/applause4.mp3
+/d/arbeit/2020_soundboard/files/applause5.mp3
+Badumtss
+/d/arbeit/2020_soundboard/files/badumtss.mp3
+Bam
+/d/arbeit/2020_soundboard/files/bam.mp3
+Boo
+/d/arbeit/2020_soundboard/files/boo.mp3
+Cash
+/d/arbeit/2020_soundboard/files/cash.mp3
+Clapping
+/d/arbeit/2020_soundboard/files/clapping.mp3
+Crickets
+/d/arbeit/2020_soundboard/files/crickets.mp3
+Dont fail me again
+/d/arbeit/2020_soundboard/files/dont-fail-me-again.mp3
+drama
+/d/arbeit/2020_soundboard/files/drama.mp3
+ea games
+/d/arbeit/2020_soundboard/files/ea_games.mp3
+el risitas laugh
+/d/arbeit/2020_soundboard/files/el-risitas-laugh.mp3
+elevator
+/d/arbeit/2020_soundboard/files/elevator.mp3
+failed me for the last time
+/d/arbeit/2020_soundboard/files/failed_me_for_the_last_time.mp3
+funny chase
+/d/arbeit/2020_soundboard/files/funnychase.mp3
+great wall
+/d/arbeit/2020_soundboard/files/great_wall.mp3
+in der tat
+/d/arbeit/2020_soundboard/files/in-der-tat.mp3
+laugh
+/d/arbeit/2020_soundboard/files/Laugh 01.mp3
+/d/arbeit/2020_soundboard/files/Laugh 02.mp3
+/d/arbeit/2020_soundboard/files/Laugh 03.mp3
+/d/arbeit/2020_soundboard/files/Laugh 04.mp3
+/d/arbeit/2020_soundboard/files/Laugh 05.mp3
+/d/arbeit/2020_soundboard/files/Laugh 06.mp3
+/d/arbeit/2020_soundboard/files/Laugh 07.mp3
+/d/arbeit/2020_soundboard/files/Laugh 08.mp3
+/d/arbeit/2020_soundboard/files/Laugh 09.mp3
+/d/arbeit/2020_soundboard/files/Laugh 10.mp3
+/d/arbeit/2020_soundboard/files/Laugh 11.mp3
+/d/arbeit/2020_soundboard/files/Laugh 12.mp3
+/d/arbeit/2020_soundboard/files/Laugh 13.mp3
+/d/arbeit/2020_soundboard/files/Laugh 14.mp3
+/d/arbeit/2020_soundboard/files/Laugh 15.mp3
+/d/arbeit/2020_soundboard/files/Laugh 16.mp3
+/d/arbeit/2020_soundboard/files/Laugh 17.mp3
+/d/arbeit/2020_soundboard/files/Laugh 18.mp3
+/d/arbeit/2020_soundboard/files/Laugh 19.mp3
+/d/arbeit/2020_soundboard/files/Laugh 20.mp3
+/d/arbeit/2020_soundboard/files/Laugh 21.mp3
+/d/arbeit/2020_soundboard/files/Laugh 22.mp3
+/d/arbeit/2020_soundboard/files/Laugh 23.mp3
+/d/arbeit/2020_soundboard/files/Laugh 24.mp3
+/d/arbeit/2020_soundboard/files/Laugh 25.mp3
+/d/arbeit/2020_soundboard/files/Laugh 26.mp3
+/d/arbeit/2020_soundboard/files/Laugh 27.mp3
+/d/arbeit/2020_soundboard/files/Laugh 28.mp3
+/d/arbeit/2020_soundboard/files/Laugh 29.mp3
+/d/arbeit/2020_soundboard/files/Laugh 30.mp3
+/d/arbeit/2020_soundboard/files/Laugh 31.mp3
+/d/arbeit/2020_soundboard/files/Laugh 32.mp3
+/d/arbeit/2020_soundboard/files/Laugh 33.mp3
+/d/arbeit/2020_soundboard/files/Laugh 34.mp3
+/d/arbeit/2020_soundboard/files/Laugh 35.mp3
+/d/arbeit/2020_soundboard/files/Laugh 36.mp3
+/d/arbeit/2020_soundboard/files/Laugh 37.mp3
+/d/arbeit/2020_soundboard/files/Laugh 38.mp3
+/d/arbeit/2020_soundboard/files/Laugh 39.mp3
+/d/arbeit/2020_soundboard/files/Laugh 40.mp3
+/d/arbeit/2020_soundboard/files/Laugh 41.mp3
+/d/arbeit/2020_soundboard/files/Laugh 42.mp3
+/d/arbeit/2020_soundboard/files/Laugh 43.mp3
+/d/arbeit/2020_soundboard/files/Laugh 44.mp3
+/d/arbeit/2020_soundboard/files/Laugh 45.mp3
+/d/arbeit/2020_soundboard/files/Laugh 46.mp3
+/d/arbeit/2020_soundboard/files/Laugh 47.mp3
+/d/arbeit/2020_soundboard/files/Laugh 48.mp3
+/d/arbeit/2020_soundboard/files/Laugh 49.mp3
+/d/arbeit/2020_soundboard/files/Laugh 50.mp3
+/d/arbeit/2020_soundboard/files/Laugh 51.mp3
+/d/arbeit/2020_soundboard/files/Laugh 52.mp3
+/d/arbeit/2020_soundboard/files/Laugh 53.mp3
+/d/arbeit/2020_soundboard/files/Laugh 54.mp3
+/d/arbeit/2020_soundboard/files/Laugh 55.mp3
+/d/arbeit/2020_soundboard/files/Laugh 56.mp3
+/d/arbeit/2020_soundboard/files/Laugh 57.mp3
+/d/arbeit/2020_soundboard/files/Laugh 58.mp3
+/d/arbeit/2020_soundboard/files/Laugh 59.mp3
+/d/arbeit/2020_soundboard/files/Laugh 60.mp3
+/d/arbeit/2020_soundboard/files/Laugh 61.mp3
+/d/arbeit/2020_soundboard/files/Laugh 62.mp3
+/d/arbeit/2020_soundboard/files/Laugh 63.mp3
+/d/arbeit/2020_soundboard/files/Laugh 64.mp3
+/d/arbeit/2020_soundboard/files/Laugh 65.mp3
+/d/arbeit/2020_soundboard/files/Laugh 66.mp3
+/d/arbeit/2020_soundboard/files/Laugh 67.mp3
+/d/arbeit/2020_soundboard/files/Laugh 68.mp3
+/d/arbeit/2020_soundboard/files/Laugh 69.mp3
+/d/arbeit/2020_soundboard/files/Laugh 70.mp3
+/d/arbeit/2020_soundboard/files/Laugh 71.mp3
+/d/arbeit/2020_soundboard/files/Laugh 72.mp3
+/d/arbeit/2020_soundboard/files/Laugh 73.mp3
+/d/arbeit/2020_soundboard/files/Laugh 74.mp3
+/d/arbeit/2020_soundboard/files/Laugh 75.mp3
+/d/arbeit/2020_soundboard/files/laugh0.mp3
+/d/arbeit/2020_soundboard/files/laugh1.mp3
+/d/arbeit/2020_soundboard/files/laugh2.mp3
+/d/arbeit/2020_soundboard/files/laugh3.mp3
+/d/arbeit/2020_soundboard/files/laugh4.mp3
+/d/arbeit/2020_soundboard/files/laugh5.mp3
+/d/arbeit/2020_soundboard/files/laugh6.mp3
+/d/arbeit/2020_soundboard/files/laugh7.mp3
+laugh applause
+/d/arbeit/2020_soundboard/files/LaughApplause 01.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 02.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 03.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 04.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 05.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 06.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 07.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 08.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 09.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 10.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 11.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 12.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 13.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 14.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 15.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 16.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 17.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 18.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 19.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 20.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 21.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 22.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 23.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 24.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 25.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 26.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 27.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 28.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 29.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 30.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 31.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 32.mp3
+/d/arbeit/2020_soundboard/files/LaughApplause 33.mp3
+lecture end
+/d/arbeit/2020_soundboard/files/lecture_end.mp3
+little group ahh
+/d/arbeit/2020_soundboard/files/Little_Group_Ahh.wav
+little group ohh
+/d/arbeit/2020_soundboard/files/Little_Group_Ohh.wav
+millionaer check answer
+/d/arbeit/2020_soundboard/files/millionaer_checkanswer.mp3
+millionaer next question
+/d/arbeit/2020_soundboard/files/millionaer_nextquestion.mp3
+millionaer question
+/d/arbeit/2020_soundboard/files/millionaer_question.mp3
+millionaer start
+/d/arbeit/2020_soundboard/files/millionaer_start.mp3
+millionaer theme
+/d/arbeit/2020_soundboard/files/millionaer_theme.mp3
+over 9000
+/d/arbeit/2020_soundboard/files/over9000.mp3
+pornhub intro
+/d/arbeit/2020_soundboard/files/ph_intro.mp3
+red do ned ollaweu dazwischn
+/d/arbeit/2020_soundboard/files/red-do-ned-ollaweu-dazwischn.mp3
+sadtrombone
+/d/arbeit/2020_soundboard/files/sadtrombone.mp3
+trollolol
+/d/arbeit/2020_soundboard/files/trollolol.mp3
+windowsxp
+/d/arbeit/2020_soundboard/files/windowsxp.mp3
+wos gibts do zu lochn
+/d/arbeit/2020_soundboard/files/wos-gibts-do-zu-lochn.mp3
+wrong
+/d/arbeit/2020_soundboard/files/wrong.mp3
+zonk
+/d/arbeit/2020_soundboard/files/zonk.mp3

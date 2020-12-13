@@ -14,6 +14,8 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 
+std::map<std::string,std::vector<std::string> > names2files;
+
 struct Data {
 	Gtk::Window window;
 	Gtk::Button stopButton;
@@ -34,17 +36,20 @@ void onButton(const std::string& filename, Data* data)
 	}
 	data->pids = std::move(newPids);
 	std::cout << "Number of pids: " << data->pids.size() << '\n';
-	
-	std::cout << "Play " << filename << '\n';
-	std::vector<char> filenameStr(filename.begin(), filename.end());
+	std::vector<std::string>& filenames = names2files[filename];
+	const std::string& playfilename = filenames[rand() % filenames.size()];
+	std::cout << "Play " << playfilename << '\n';
+	std::vector<char> filenameStr(playfilename.begin(), playfilename.end());
 	filenameStr.push_back(0);
 	char command[] = "mplayer";
 	char quiet[] = "-quiet";
 	char* const params[4] = { command, quiet, filenameStr.data(), nullptr };
   pid_t child_pid = fork();
   if(child_pid == 0) {
+		close(STDERR_FILENO);
+		close(STDOUT_FILENO);
 		execvp(command, params);
-		std::cout << "execvp failed.\n";
+		exit(-1);
 	}
 	else {
 		data->pids.push_back(child_pid);
@@ -82,19 +87,23 @@ int main(int argc, char* argv[])
 	if(fontsize < 8) fontsize = 8;
 	std::string font = "Ubuntu " + std::to_string(fontsize);
 	int x=0, y=0;
+	std::string title("");
 	while(configFile)
 	{
 		std::string line;
 		std::getline(configFile, line);
-		if(configFile && !line.empty())
+		if(configFile && !title.empty() && !line.empty() && line.find('.') != std::string::npos)
 		{
-			std::string title = line;
-			std::getline(configFile, line);
-			if(configFile && !line.empty())
+			names2files[title].push_back(line);
+			std::cout << "adding " << line << " to " << title << " map.\n" << std::endl;
+		}
+		else if(configFile && !line.empty())
+		{
+			if(!title.empty())
 			{
 				buttons.emplace_back(title);
 				Gtk::Button& button = buttons.back();
-				button.signal_clicked().connect([line,&data](){ onButton(line, &data); });
+				button.signal_clicked().connect([title,&data](){ onButton(title, &data); });
 				button.set_hexpand(true);
 				button.set_vexpand(true);
 				button.override_font(Pango::FontDescription(font));
@@ -106,9 +115,7 @@ int main(int argc, char* argv[])
 					y++;
 				}
 			}
-			else {
-				throw std::runtime_error("Error in config file: after '" + title + "'");
-			}
+			title = line;
 		}
 	}
 	
