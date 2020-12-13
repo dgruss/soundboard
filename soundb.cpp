@@ -80,7 +80,7 @@ int main(int argc, char* argv[])
 	int cols, rows, fontsize;
 	configFile >> cols >> rows >> fontsize;
 	if(fontsize < 8) fontsize = 8;
-	std::string font = "Eras Demi ITC " + std::to_string(fontsize);
+	std::string font = "Ubuntu " + std::to_string(fontsize);
 	int x=0, y=0;
 	while(configFile)
 	{
@@ -125,7 +125,7 @@ int main(int argc, char* argv[])
 	
 	window.add(grid);
 	window.show_all_children();
-	window.fullscreen();
+	//window.fullscreen();
 	
 	app->run(window);
 }
